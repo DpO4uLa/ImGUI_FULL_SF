@@ -1,1 +1,1 @@
-###### ImGUI_FULL_SF
+Интегрированный ImGui в проект SAMPFUNCS
